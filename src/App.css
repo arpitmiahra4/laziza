@@ -45,11 +45,29 @@
   border-radius: 19% 82% 0% 87% / 100% 0% 100% 0%;
 }
 
-
 .glow-buttons button {
   transition: box-shadow 0.3s ease;
 }
 
 .glow-buttons button:hover {
   box-shadow: 0 0 20px 5px rgba(255, 255, 255, 0.7); /* Adjust the glow effect as needed */
+}
+
+.custom_border {
+  width: 100px;
+}
+.card_img1 {
+  height: 230px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card_img2{
+  height: 280px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.br-carousel{
+ border-radius: 12% 11% 18% 100% / 87% 100% 82% 38%  ;
 }

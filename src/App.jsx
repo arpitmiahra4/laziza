@@ -5,7 +5,7 @@ import LandingPage from "./Pages/LandingPage";
 
 function App() {
   return (
-    <div className="App px-24 pt-2 font-serif">
+    <div className="App font-serif">
       <nav>
         <Navbar />
       </nav>
